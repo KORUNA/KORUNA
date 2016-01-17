@@ -1,0 +1,17 @@
+Source: Koruna
+Section: misc
+Priority: extra
+Maintainer: Koruna <akira.takizawa@morningKoruna.com>
+Build-Depends: debhelper (>= 5),
+	libminiupnpc-dev,
+	libdb++-dev,
+	libboost-system-dev, libboost-filesystem-dev, libboost-program-options-dev, libboost-thread-dev,
+	qt5-default, qttools5-dev-tools,
+	desktop-file-utils, 
+Standards-Version: 3.8.3
+Homepage: http://www.morningKoruna.com/
+
+Package: Koruna
+Architecture: i386 amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Koruna Wallet
