@@ -968,7 +968,7 @@ int64_t GetProofOfWorkReward(int64_t nFees, int nHeight)
 {
     int64_t nSubsidy = 0 * COIN;
 	
-	if (nHeight > 999 && nHeight < 1101)
+	if (nHeight > 199 && nHeight < 300)
 		nSubsidy = 10000000 * COIN;
 
     return nSubsidy + nFees;
@@ -990,7 +990,11 @@ int64_t GetProofOfStakeReward(int64_t nCoinAge, int64_t nFees, int nHeight)
 	if (nHeight < 1200)
 		interest = 0;
     
-    nSubsidy = nCoinAge * interest * CENT * 33 / (365 * 33 + 8);
+    nSubsidy = nCoinAge * (interest * CENT) / 365 / COIN;
+	
+	// Sanity check
+	if (nSubsidy < 0)
+		nSubsidy = 0;
 
     //LogPrint("creation", "GetProofOfStakeReward(): create=%s nCoinAge=%d\n", FormatMoney(nSubsidy), nCoinAge, nHeight);
 
@@ -2803,7 +2807,7 @@ bool static AlreadyHave(CTxDB& txdb, const CInv& inv)
 // The message start string is designed to be unlikely to occur in normal data.
 // The characters are rarely used upper ASCII, not valid as UTF-8, and produce
 // a large 4-byte int at any alignment.
-unsigned char pchMessageStart[4] = { 0x7f, 0xe5, 0xc2, 0xa5 };
+unsigned char pchMessageStart[4] = { 0xcf, 0xe7, 0xc4, 0xa3 };
 
 bool static ProcessMessage(CNode* pfrom, string strCommand, CDataStream& vRecv)
 {

@@ -1009,10 +1009,10 @@ void PrintExceptionContinue(std::exception* pex, const char* pszThread)
 boost::filesystem::path GetDefaultDataDir()
 {
     namespace fs = boost::filesystem;
-    // Windows < Vista: C:\Documents and Settings\Username\Application Data\Koruna
-    // Windows >= Vista: C:\Users\Username\AppData\Roaming\Koruna
-    // Mac: ~/Library/Application Support/Koruna
-    // Unix: ~/.Koruna
+    // Windows < Vista: C:\Documents and Settings\Username\Application Data\Koruna-online
+    // Windows >= Vista: C:\Users\Username\AppData\Roaming\Koruna-online
+    // Mac: ~/Library/Application Support/Koruna-online
+    // Unix: ~/.Koruna-online
 #ifdef WIN32
     // Windows
     return GetSpecialFolderPath(CSIDL_APPDATA) / "koruna-online";

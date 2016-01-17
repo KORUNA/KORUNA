@@ -26,7 +26,7 @@ class CInv;
 class CRequestTracker;
 class CNode;
 
-static const int LAST_POW_BLOCK = 2147483646; // PoW always on
+static const int LAST_POW_BLOCK = 10000; // PoW to block 10k
 static const int FIRST_POS_BLOCK = 0; // PoS always on
 
 static const unsigned int MAX_BLOCK_SIZE = 100000000; // 100 MB

@@ -4,18 +4,18 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Koruna</source>
-        <translation type="unfinished"/>
+        <translation>O Koruně</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;Koruna&lt;/b&gt; version</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Koruna&lt;/b&gt; verze</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Koruna developers</source>
+Copyright © 2014-2016 The Koruna developers - www.koruna.online</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -39,7 +39,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
         <source>Address Book</source>
-        <translation type="unfinished"/>
+        <translation>Adresář</translation>
     </message>
     <message>
         <location line="+22"/>
@@ -59,12 +59,12 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="-11"/>
         <source>&amp;New Address</source>
-        <translation type="unfinished"/>
+        <translation>Nová adresa</translation>
     </message>
     <message>
         <location line="-46"/>
         <source>These are your Koruna addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation type="unfinished"/>
+        <translation>Zde jsou Koruna adresy pro příjem mincí. Můžeš si vytvořit adresu pro každého platícího.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -74,17 +74,17 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="+11"/>
         <source>Show &amp;QR Code</source>
-        <translation type="unfinished"/>
+        <translation>Ukaž QR kód</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Sign a message to prove you own a Koruna address</source>
-        <translation type="unfinished"/>
+        <translation>Podepiš zprávu pro ověření Koruna adresy</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sign &amp;Message</source>
-        <translation type="unfinished"/>
+        <translation>Podepsat zprávu</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -119,7 +119,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="+250"/>
         <source>Export Address Book Data</source>
-        <translation type="unfinished"/>
+        <translation>Vyexportovat data adresáře</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -129,12 +129,12 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="+13"/>
         <source>Error exporting</source>
-        <translation type="unfinished"/>
+        <translation>Chyba exportu</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation type="unfinished"/>
+        <translation>Nemohu zapisovat do soubrou %1.</translation>
     </message>
 </context>
 <context>
@@ -185,7 +185,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="+3"/>
         <source>For staking only</source>
-        <translation type="unfinished"/>
+        <translation>Pouze pro staking</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+35"/>
@@ -341,27 +341,27 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="+5"/>
         <source>&amp;Address Book</source>
-        <translation type="unfinished"/>
+        <translation>Adresář</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Edit the list of stored addresses and labels</source>
-        <translation type="unfinished"/>
+        <translation>Upravit seznam uložených adres a označení</translation>
     </message>
     <message>
         <location line="-13"/>
         <source>&amp;Receive coins</source>
-        <translation type="unfinished"/>
+        <translation>Přijmout</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show the list of addresses for receiving payments</source>
-        <translation type="unfinished"/>
+        <translation>Ukaž seznam adres pro příjem</translation>
     </message>
     <message>
         <location line="-7"/>
         <source>&amp;Send coins</source>
-        <translation type="unfinished"/>
+        <translation>Odeslat</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -376,7 +376,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="+6"/>
         <source>Show information about Koruna</source>
-        <translation type="unfinished"/>
+        <translation>Ukázat info o Koruně</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -416,17 +416,17 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="+6"/>
         <source>Downloaded %1 of %2 blocks of transaction history (%3% done).</source>
-        <translation type="unfinished"/>
+        <translation>Staženo %1 z %2 bloků transakční historie (%3% hotovo).</translation>
     </message>
     <message>
         <location line="-256"/>
         <source>&amp;Export...</source>
-        <translation type="unfinished"/>
+        <translation>Export</translation>
     </message>
     <message>
         <location line="-64"/>
         <source>Send coins to a Koruna address</source>
-        <translation type="unfinished"/>
+        <translation>Poslat Koruna mince</translation>
     </message>
     <message>
         <location line="+47"/>
@@ -456,12 +456,12 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="+10"/>
         <source>&amp;Debug window</source>
-        <translation>&amp;Ladicí okno</translation>
+        <translation>&amp;Ladící okno</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Open debugging and diagnostic console</source>
-        <translation>Otevři ladicí a diagnostickou konzoli</translation>
+        <translation>Otevři ladící a diagnostickou konzoli</translation>
     </message>
     <message>
         <location line="-5"/>
@@ -471,7 +471,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="-202"/>
         <source>Koruna</source>
-        <translation type="unfinished"/>
+        <translation>Koruna</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -481,7 +481,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="+180"/>
         <source>&amp;About Koruna</source>
-        <translation type="unfinished"/>
+        <translation>O Koruně</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -491,17 +491,17 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="+9"/>
         <source>Unlock wallet</source>
-        <translation type="unfinished"/>
+        <translation>Odemkni peněženku</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Lock Wallet</source>
-        <translation type="unfinished"/>
+        <translation>Zamkni peněženku</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Lock wallet</source>
-        <translation type="unfinished"/>
+        <translation>Zamkni peněženku</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -526,7 +526,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="+8"/>
         <source>Actions toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Panel s akcemi</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -538,42 +538,42 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
         <location line="+0"/>
         <location line="+60"/>
         <source>Koruna client</source>
-        <translation type="unfinished"/>
+        <translation>Koruna klient</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
         <source>%n active connection(s) to Koruna network</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n aktivní spojení do Koruna sítě</numerusform><numerusform>%n aktivní spojení do Koruna sítě</numerusform><numerusform>%n aktivních spojení do Koruna sítě</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Downloaded %1 blocks of transaction history.</source>
-        <translation type="unfinished"/>
+        <translation>Staženo %1 bloků transakční historie.</translation>
     </message>
     <message>
         <location line="+413"/>
         <source>Staking.&lt;br&gt;Your weight is %1&lt;br&gt;Network weight is %2&lt;br&gt;Expected time to earn reward is %3</source>
-        <translation type="unfinished"/>
+        <translation>Staking.&lt;br&gt;Tvoje váha je %1&lt;br&gt;Váha sítě je %2&lt;br&gt;Odhadovaný čas pro získání odměny je %3</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Not staking because wallet is locked</source>
-        <translation type="unfinished"/>
+        <translation>Žádný staking protože je peněženka zamknutá.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not staking because wallet is offline</source>
-        <translation type="unfinished"/>
+        <translation>Žádný staking protože je peněženka offline.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not staking because wallet is syncing</source>
-        <translation type="unfinished"/>
+        <translation>Žádný staking protože se peněženka synchronizuje.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not staking because you don&apos;t have mature coins</source>
-        <translation type="unfinished"/>
+        <translation>Žádný staking protože nemáš žádné odležené mince.</translation>
     </message>
     <message numerus="yes">
         <location line="-403"/>
@@ -593,7 +593,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="+18"/>
         <source>&amp;Unlock Wallet...</source>
-        <translation type="unfinished"/>
+        <translation>Odemkni peněženku</translation>
     </message>
     <message numerus="yes">
         <location line="+297"/>
@@ -623,7 +623,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="+10"/>
         <source>Last received block was generated %1.</source>
-        <translation type="unfinished"/>
+        <translation>Poslední přijatý blok byl vytvořen %1.</translation>
     </message>
     <message>
         <location line="+59"/>
@@ -683,7 +683,7 @@ Adresa: %4
     <message>
         <location line="+25"/>
         <source>Backup Wallet</source>
-        <translation type="unfinished"/>
+        <translation>Zazálohovat peněženku</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -693,7 +693,7 @@ Adresa: %4
     <message>
         <location line="+3"/>
         <source>Backup Failed</source>
-        <translation type="unfinished"/>
+        <translation>Záloha se nezdařila</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -723,12 +723,12 @@ Adresa: %4
     <message>
         <location line="+18"/>
         <source>Not staking</source>
-        <translation type="unfinished"/>
+        <translation>Žádný staking</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
         <source>A fatal error occurred. Koruna can no longer continue safely and will quit.</source>
-        <translation type="unfinished"/>
+        <translation>Došlo k závažné chybě. Koruna již nemůže dále bezpečně pokračovat a bude ukončena.</translation>
     </message>
 </context>
 <context>
@@ -744,17 +744,17 @@ Adresa: %4
     <message>
         <location filename="../forms/coincontroldialog.ui" line="+14"/>
         <source>Coin Control</source>
-        <translation type="unfinished"/>
+        <translation>Kontrola Mincí</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Quantity:</source>
-        <translation type="unfinished"/>
+        <translation>Množství:</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Bytes:</source>
-        <translation type="unfinished"/>
+        <translation>Bajty:</translation>
     </message>
     <message>
         <location line="+48"/>
@@ -764,47 +764,47 @@ Adresa: %4
     <message>
         <location line="+32"/>
         <source>Priority:</source>
-        <translation type="unfinished"/>
+        <translation>Priorita:</translation>
     </message>
     <message>
         <location line="+48"/>
         <source>Fee:</source>
-        <translation type="unfinished"/>
+        <translation>Poplatek:</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Low Output:</source>
-        <translation type="unfinished"/>
+        <translation>Nízký Výstup:</translation>
     </message>
     <message>
         <location filename="../coincontroldialog.cpp" line="+551"/>
         <source>no</source>
-        <translation type="unfinished"/>
+        <translation>ne</translation>
     </message>
     <message>
         <location filename="../forms/coincontroldialog.ui" line="+51"/>
         <source>After Fee:</source>
-        <translation type="unfinished"/>
+        <translation>Po Poplatku:</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Change:</source>
-        <translation type="unfinished"/>
+        <translation>Změna:</translation>
     </message>
     <message>
         <location line="+69"/>
         <source>(un)select all</source>
-        <translation type="unfinished"/>
+        <translation>(ne)vybrat vše</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Tree mode</source>
-        <translation type="unfinished"/>
+        <translation>Stromové zobrazení</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>List mode</source>
-        <translation type="unfinished"/>
+        <translation>Seznamové zobrazení</translation>
     </message>
     <message>
         <location line="+45"/>
@@ -814,7 +814,7 @@ Adresa: %4
     <message>
         <location line="+5"/>
         <source>Label</source>
-        <translation type="unfinished"/>
+        <translation>Jmenovka</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -829,7 +829,7 @@ Adresa: %4
     <message>
         <location line="+5"/>
         <source>Confirmations</source>
-        <translation type="unfinished"/>
+        <translation>Potvrzení</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -839,12 +839,12 @@ Adresa: %4
     <message>
         <location line="+5"/>
         <source>Priority</source>
-        <translation type="unfinished"/>
+        <translation>Priorita</translation>
     </message>
     <message>
         <location filename="../coincontroldialog.cpp" line="-515"/>
         <source>Copy address</source>
-        <translation>Kopírovat sdresu</translation>
+        <translation>Kopírovat adresu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -865,82 +865,82 @@ Adresa: %4
     <message>
         <location line="+24"/>
         <source>Copy quantity</source>
-        <translation type="unfinished"/>
+        <translation>Zkopíruj množství</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Copy fee</source>
-        <translation type="unfinished"/>
+        <translation>Zkopíruj poplatek</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy after fee</source>
-        <translation type="unfinished"/>
+        <translation>Zkopíruj po poplatku</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy bytes</source>
-        <translation type="unfinished"/>
+        <translation>Zkopíruj bajty</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy priority</source>
-        <translation type="unfinished"/>
+        <translation>Zkopíruj prioritu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy low output</source>
-        <translation type="unfinished"/>
+        <translation>Zkopíruj nízký výstup</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy change</source>
-        <translation type="unfinished"/>
+        <translation>Zkopíruj změnu</translation>
     </message>
     <message>
         <location line="+317"/>
         <source>highest</source>
-        <translation type="unfinished"/>
+        <translation>nejvyšší</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>high</source>
-        <translation type="unfinished"/>
+        <translation>vysoká</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>medium-high</source>
-        <translation type="unfinished"/>
+        <translation>středně vysoká</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>medium</source>
-        <translation type="unfinished"/>
+        <translation>střední</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>low-medium</source>
-        <translation type="unfinished"/>
+        <translation>středně nízká</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>low</source>
-        <translation type="unfinished"/>
+        <translation>nízká</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>lowest</source>
-        <translation type="unfinished"/>
+        <translation>nejnižší</translation>
     </message>
     <message>
         <location line="+155"/>
         <source>DUST</source>
-        <translation type="unfinished"/>
+        <translation>PRACH</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>yes</source>
-        <translation type="unfinished"/>
+        <translation>ano</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -949,7 +949,11 @@ Adresa: %4
  This means a fee of at least %1 per kb is required.
 
  Can vary +/- 1 Byte per input.</source>
-        <translation type="unfinished"/>
+        <translation>Tento popis zčervená, když velikost transakce překročí 10000 bajtů.
+
+ To znamená, že je potřebný poplatek ve výši alespoň %1 za kb.
+
+ Může se lišit +/- 1 Bajt na vstup.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -958,7 +962,11 @@ Adresa: %4
 This label turns red, if the priority is smaller than &quot;medium&quot;.
 
  This means a fee of at least %1 per kb is required.</source>
-        <translation type="unfinished"/>
+        <translation>Transakce s vyšší prioritou se dostanou do bloku s větší pravděpodobností.
+
+Tento popis zčervená, když je priorita nižší než &quot;střední&quot;.
+
+ To znamená, že je potřebný poplatek ve výši alespoň %1 za kb.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -967,14 +975,20 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
  This means a fee of at least %2 is required. 
 
  Amounts below 0.546 times the minimum relay fee are shown as DUST.</source>
-        <translation type="unfinished"/>
+        <translation>Tento popis zčervená, když příjemce obdrží částku menší než %1.
+
+To znamená, že je potřebný poplatek ve výši nejméně %2.
+
+Částky menší než 0.546 násobek minimálního poplatku jsou zobrazeny jako PRACH.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This label turns red, if the change is smaller than %1.
 
  This means a fee of at least %2 is required.</source>
-        <translation type="unfinished"/>
+        <translation>Tento popis zčervená, když je změna menší než %1.
+
+To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -985,12 +999,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <source>change from %1 (%2)</source>
-        <translation type="unfinished"/>
+        <translation>změna z %1 (%2)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>(change)</source>
-        <translation type="unfinished"/>
+        <translation>(změna)</translation>
     </message>
 </context>
 <context>
@@ -1018,7 +1032,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+10"/>
         <source>The address associated with this address book entry. This can only be modified for sending addresses.</source>
-        <translation type="unfinished"/>
+        <translation>Označení spojeno s touto adresou v adresáři</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="+20"/>
@@ -1048,7 +1062,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-5"/>
         <source>The entered address &quot;%1&quot; is not a valid Koruna address.</source>
-        <translation type="unfinished"/>
+        <translation>Zadaná adresa &quot;%1&quot; není platná Koruna adresa.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,37 +1086,37 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-12"/>
         <source>version</source>
-        <translation type="unfinished"/>
+        <translation>verze</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Usage:</source>
-        <translation type="unfinished"/>
+        <translation>Použití:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>command-line options</source>
-        <translation type="unfinished"/>
+        <translation>možnosti příkazové řádky</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>UI options</source>
-        <translation type="unfinished"/>
+        <translation>Možnosti uživatelského rozhraní</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set language, for example &quot;de_DE&quot; (default: system locale)</source>
-        <translation type="unfinished"/>
+        <translation>Nastav jazyk, např. &quot;de_DE&quot; (výchozí: místní nastavení systému)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Start minimized</source>
-        <translation type="unfinished"/>
+        <translation>Spusť minimalizovaně</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show splash screen on startup (default: 1)</source>
-        <translation type="unfinished"/>
+        <translation>Zobraz úvodní obrazovku při startu (default: 1)</translation>
     </message>
 </context>
 <context>
@@ -1120,7 +1134,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+6"/>
         <source>Optional transaction fee per kB that helps make sure your transactions are processed quickly. Most transactions are 1 kB. Fee 0.01 recommended.</source>
-        <translation type="unfinished"/>
+        <translation>Volitelný poplatek transakce za kB, který zajistí, že tvé transakce jsou rychle zpracovány. Většina transakcí má 1 kB. Poplatek 0.01 je doporučený.</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1130,22 +1144,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+31"/>
         <source>Reserved amount does not participate in staking and is therefore spendable at any time.</source>
-        <translation type="unfinished"/>
+        <translation>Rezervované množství se nepoužívá při stakingu a může tak být použito kdykoli.</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Reserve</source>
-        <translation type="unfinished"/>
+        <translation>Rezerva</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Automatically start Koruna after logging in to the system.</source>
-        <translation type="unfinished"/>
+        <translation>Automaticky spustit Koruna po přihlášení do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Start Koruna on system login</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Spustit Koruna při přihlášení do systému</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1250,7 +1264,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+13"/>
         <source>The user interface language can be set here. This setting will take effect after restarting Koruna.</source>
-        <translation type="unfinished"/>
+        <translation>Zde můžeš nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartu Koruna.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1265,7 +1279,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+9"/>
         <source>Whether to show Koruna addresses in the transaction list or not.</source>
-        <translation type="unfinished"/>
+        <translation>Zda chceš zobrazit Koruna adresy v seznamu transakcí nebo ne.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1275,12 +1289,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Whether to show coin control features or not.</source>
-        <translation type="unfinished"/>
+        <translation>Zda chceš zobrazit funkci řízení mincí nebo ne.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Display coin &amp;control features (experts only!)</source>
-        <translation type="unfinished"/>
+        <translation>Zobraz funkci &amp;řízení mincí (jen pro odborníky!)</translation>
     </message>
     <message>
         <location line="+71"/>
@@ -1295,7 +1309,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+10"/>
         <source>&amp;Apply</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Použit</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="+55"/>
@@ -1306,13 +1320,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+149"/>
         <location line="+9"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Upozornění</translation>
     </message>
     <message>
         <location line="-9"/>
         <location line="+9"/>
         <source>This setting will take effect after restarting Koruna.</source>
-        <translation type="unfinished"/>
+        <translation>Nastavení se projeví až po restartu Koruny.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1331,17 +1345,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+33"/>
         <location line="+231"/>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Koruna network after a connection is established, but this process has not completed yet.</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazené informace můžou být zastaralé. Tvá peněženka se automaticky synchronizuje s Koruna sítí po navázaní spojení, ale tento proces ještě není dokončený.</translation>
     </message>
     <message>
         <location line="-160"/>
         <source>Stake:</source>
-        <translation type="unfinished"/>
+        <translation>Stake:</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Unconfirmed:</source>
-        <translation type="unfinished"/>
+        <translation>Nepotvrzeno:</translation>
     </message>
     <message>
         <location line="-107"/>
@@ -1351,7 +1365,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+49"/>
         <source>Spendable:</source>
-        <translation type="unfinished"/>
+        <translation>Použitelné:</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -1386,12 +1400,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-108"/>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the current balance</source>
-        <translation type="unfinished"/>
+        <translation>Součet transakcí, které ještě nebyly potvrzeny a proto nejsou započítány do aktuálního zůstatku</translation>
     </message>
     <message>
         <location line="-29"/>
         <source>Total of coins that was staked, and do not yet count toward the current balance</source>
-        <translation type="unfinished"/>
+        <translation>Součet transakcí, které byly stakovány a proto nejsou započítány do aktuálního zůstatku</translation>
     </message>
     <message>
         <location filename="../overviewpage.cpp" line="+113"/>
@@ -1405,32 +1419,32 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/qrcodedialog.ui" line="+14"/>
         <source>QR Code Dialog</source>
-        <translation type="unfinished"/>
+        <translation>QR Kód Dialog</translation>
     </message>
     <message>
         <location line="+59"/>
         <source>Request Payment</source>
-        <translation type="unfinished"/>
+        <translation>Vyžádej Platbu</translation>
     </message>
     <message>
         <location line="+56"/>
         <source>Amount:</source>
-        <translation type="unfinished"/>
+        <translation>Částka:</translation>
     </message>
     <message>
         <location line="-44"/>
         <source>Label:</source>
-        <translation type="unfinished"/>
+        <translation>Označení:</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Message:</source>
-        <translation type="unfinished"/>
+        <translation>Zpráva:</translation>
     </message>
     <message>
         <location line="+71"/>
         <source>&amp;Save As...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Uložit jako...</translation>
     </message>
     <message>
         <location filename="../qrcodedialog.cpp" line="+62"/>
@@ -2325,7 +2339,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+60"/>
         <source>Open until %1</source>
-        <translation>Otřevřeno dokud %1</translation>
+        <translation>Otevřeno dokud %1</translation>
     </message>
     <message>
         <location line="+12"/>
