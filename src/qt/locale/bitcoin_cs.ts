@@ -2965,7 +2965,7 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     <message>
         <location line="+47"/>
         <source>Verifying database integrity...</source>
-        <translation type="unfinished"/>
+        <translation>Ověřování integrity databáze ...</translation>
     </message>
     <message>
         <location line="+57"/>
